@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**lilyl-3/lilyl-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lily, a 4th year computer engineering student at UBC.
 
-Here are some ideas to get you started:
+I'm currently working at D-Wave as a SWE for the last 8 months, building full-stack tools for physicists working with quantum computers. I'm interested in full-stack development and electrical/embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some other things I've worked on:
+- Automating simulation workflows for UBC Formula Racing on an HPC cluster
+- Using AI to analyze bone imaging data as a research assistant
+- A full-stack Android app (RoomSync) for splitting chores and tasks with roommates
+- A custom Unix shell written in C
+
+**Languages:** Python, JavaScript, Java, C, HTML/CSS, Bash
+**Tools:** Git, AWS, Docker, MongoDB, Node.js, Firebase
+
+Always happy to chat about software, hardware, or anything in between — feel free to reach out at lilyllim2@gmail.com or on [LinkedIn](https://linkedin.com/in/lilyllim).
